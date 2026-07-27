@@ -8,15 +8,15 @@
   alt="coding"
 />
 
-- 📫 How to reach me **www.satyaki95@gmail.com**
+- 📫 How to reach me: **www.satyaki95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/satyki-saha-3aa407402/"
+    href="https://www.linkedin.com/in/satyaki-saha-3aa407402/"
     target="blank"
     ><img
-      align="center"
+      align="centre"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/satyki-saha-3aa407402/"
       height="30"
@@ -207,7 +207,7 @@
 
 <p>
   &nbsp;<img
-    align="center"
+    align="centre"
     src="https://github-readme-stats.vercel.app/api?username=satyaki95&show_icons=true&locale=en"
     alt="satyaki95"
   />
