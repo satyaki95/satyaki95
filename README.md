@@ -208,7 +208,7 @@
 <p>
   &nbsp;<img
     align="centre"
-    src="https://github-readme-stats.vercel.app/api?username=satyaki95&show_icons=true&locale=en"
+    src="[https://github-readme-stats.vercel.app/api?username=satyaki95&show_icons=true&locale=en](https://img.icons8.com/?size=100&id=s6BMuiR0tvY2&format=png&color=000000)"
     alt="satyaki95"
   />
 </p>
