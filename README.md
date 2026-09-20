@@ -1,4 +1,5 @@
-[![MasterHead](https://cdn.corenexis.com/files/c/4478125720.png)]
+[![MasterHead](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0a1d5156-02f8-44bd-91f6-11ccb35b613a" />
+)]
 <h1 align="center">Hi 👋, I'm Satyaki Saha</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <<img
