@@ -1,4 +1,4 @@
-[![MasterHead](https://img.icons8.com/?size=100&id=2CZ4L7bKk5lE&format=png&color=000000)]
+![MasterHead](https://img.icons8.com/?size=100&id=2CZ4L7bKk5lE&format=png&color=000000)
 <h1 align="center">Hi 👋, I'm Satyaki Saha</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <<img
